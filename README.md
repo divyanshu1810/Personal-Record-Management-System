@@ -1,0 +1,2 @@
+# Personal-Record-Management-System
+Personal Diary Management System is based on a concept to generate Personal Daily Records and to add records & update them. Here User can add their daily details safely and it’s not time-consuming. Each Section contains high security so there is no chance of data loss. There’s maximum privacy to the recorded files. This System makes it easy to store daily records. The whole project is designed in ‘C’ language and different variables and strings have been used for the development of this project.
